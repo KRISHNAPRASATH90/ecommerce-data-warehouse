@@ -1,0 +1,14 @@
+# macOS system files
+.DS_Store
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+
+# Database credentials
+.env
+.env.*
+
+# Editor settings
+.vscode/
