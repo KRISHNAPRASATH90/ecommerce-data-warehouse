@@ -4,6 +4,7 @@
 
 This project focuses on designing and implementing an E-Commerce Sales Data Warehouse using MySQL and SQL. It follows a layered data architecture to organise transactional data for structured storage and analytical reporting.
 
+
 ## Technologies Used
 
 - MySQL
